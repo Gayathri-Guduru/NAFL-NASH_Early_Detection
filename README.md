@@ -6,9 +6,7 @@ This repository contains a comprehensive gene expression analysis pipeline for t
 
 ## Key Features
 Differential Expression Analysis: Identifies genes significantly upregulated or downregulated between Baseline and Follow-up conditions.
-
 KEGG Pathway Enrichment: Highlights key pathways altered in NAFL and NASH progression.
-
 Gene Set Enrichment Analysis (GSEA): Provides insights into the biological processes and molecular functions enriched in differentially expressed genes.
 Visualizations: Volcano plot and heatmap display the results to facilitate biomarker discovery and interpretation of gene expression patterns.
 
