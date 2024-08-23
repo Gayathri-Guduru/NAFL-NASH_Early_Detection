@@ -81,6 +81,6 @@ This project presents a detailed molecular landscape of NAFL and NASH, highlight
 ## Repository Contents
 **R Scripts**: Scripts for differential expression analysis, pathway enrichment, and visualization (heatmaps, volcano plots).
 Result Files:
-**GSE182060_KEGG_Pathway_Results.csv:** Results of KEGG pathway enrichment.
-**GSE182060_GSEA_GO_BP.csv**: Results of Gene Set Enrichment Analysis for GO biological processes.
-**GSE182060_KEGG_GSEA_msigdbr.csv**: KEGG GSEA results using msigdbr.
+- **GSE182060_KEGG_Pathway_Results.csv:** Results of KEGG pathway enrichment.
+- **GSE182060_GSEA_GO_BP.csv**: Results of Gene Set Enrichment Analysis for GO biological processes.
+- **GSE182060_KEGG_GSEA_msigdbr.csv**: KEGG GSEA results using msigdbr.
