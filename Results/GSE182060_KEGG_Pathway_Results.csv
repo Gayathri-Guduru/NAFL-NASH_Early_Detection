@@ -1,0 +1,15 @@
+"","category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"hsa04061","Environmental Information Processing","Signaling molecules and interaction","hsa04061","Viral protein interaction with cytokine and cytokine receptor","5/6","100/8843",9.94582533807811e-10,2.48645633451953e-08,9.42236084660031e-09,"6351/4283/6347/6348/3627",5
+"hsa04062","Organismal Systems","Immune system","hsa04062","Chemokine signaling pathway","5/6","193/8843",2.77321838147178e-08,3.46652297683973e-07,1.31362975964453e-07,"6351/4283/6347/6348/3627",5
+"hsa04060","Environmental Information Processing","Signaling molecules and interaction","hsa04060","Cytokine-cytokine receptor interaction","5/6","298/8843",2.45420606913941e-07,2.00962344389845e-06,7.61541515582572e-07,"6351/4283/6347/6348/3627",5
+"hsa04620","Organismal Systems","Immune system","hsa04620","Toll-like receptor signaling pathway","4/6","109/8843",3.21539751023753e-07,2.00962344389845e-06,7.61541515582572e-07,"6351/4283/6348/3627",4
+"hsa05163","Human Diseases","Infectious disease: viral","hsa05163","Human cytomegalovirus infection","3/6","226/8843",0.000311215504883092,0.00155607752441546,0.000589671482936385,"6351/6347/6348",3
+"hsa04623","Organismal Systems","Immune system","hsa04623","Cytosolic DNA-sensing pathway","2/6","83/8843",0.00127409253620103,0.00520513439165874,0.001972471979997,"6351/3627",2
+"hsa05323","Human Diseases","Immune disease","hsa05323","Rheumatoid arthritis","2/6","94/8843",0.00163107093612114,0.00520513439165874,0.001972471979997,"6347/6348",2
+"hsa04657","Organismal Systems","Immune system","hsa04657","IL-17 signaling pathway","2/6","95/8843",0.0016656430053308,0.00520513439165874,0.001972471979997,"6347/3627",2
+"hsa05142","Human Diseases","Infectious disease: parasitic","hsa05142","Chagas disease","2/6","103/8843",0.00195485701843417,0.00543015838453935,0.0020577442299307,"6347/6348",2
+"hsa04668","Environmental Information Processing","Signal transduction","hsa04668","TNF signaling pathway","2/6","119/8843",0.00260015753295556,0.00650039383238891,0.00246330713648422,"6347/3627",2
+"hsa05164","Human Diseases","Infectious disease: viral","hsa05164","Influenza A","2/6","172/8843",0.00535926091985627,0.0121801384542188,0.00461563141423028,"6347/3627",2
+"hsa05417","Human Diseases","Cardiovascular disease","hsa05417","Lipid and atherosclerosis","2/6","216/8843",0.00834941778476062,0.017394620384918,0.00659164561954786,"6347/6348",2
+"hsa05171","Human Diseases","Infectious disease: viral","hsa05171","Coronavirus disease - COVID-19","2/6","238/8843",0.010073413766754,0.01937194955145,0.00734094930370735,"6347/3627",2
+"hsa00900","Metabolism","Metabolism of terpenoids and polyketides","hsa00900","Terpenoid backbone biosynthesis","1/6","23/8843",0.0155087991553698,0.0276942842060176,0.0104946761201751,"3156",1
