@@ -80,7 +80,10 @@ The provided R Markdown file (dge.rmd) will guide you through the steps of downl
 - **Treatment Response**: Monitoring the expression of genes like TRAF6 (involved in the NF-κB signaling pathway) could help track the efficacy of anti-inflammatory treatments for liver disease.
 
 ## Conclusion
-This project presents a detailed molecular landscape of NAFL and NASH, highlighting candidate biomarkers for early detection and potential therapeutic targets. The analysis focuses on immune-related genes, inflammatory markers, and pathways involved in liver metabolism, aligning with the goal of developing non-invasive alternatives for diagnosing liver diseases.
+- Chemokine signaling and cytokine interactions are central to the progression of NAFLD to NASH.
+- CCL2, CCL4, and CXCL10 can serve as biomarkers for early detection and also as therapeutic targets.
+- Non-invasive blood tests focusing on these chemokines can help in the early detection of liver disease, reducing the need for liver biopsies.
+- Targeting inflammatory pathways may prevent disease progression, offering new treatment strategies for patients with NASH.
 
 ## Repository Contents
 **R Scripts**: Scripts for differential expression analysis, pathway enrichment, and visualization (heatmaps, volcano plots).
