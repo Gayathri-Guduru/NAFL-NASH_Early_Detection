@@ -55,11 +55,13 @@ The provided R Markdown file (dge.rmd) will guide you through the steps of downl
 - **Y-axis (-log10 Adjusted P-value)**: Indicates statistical significance.
 - Genes with large fold changes and significant p-values are key candidates for understanding disease progression.
 - **Interpretation**: Genes with significant differential expression are potential biomarkers for early detection of NAFL/NASH and could also help monitor treatment responses. Immune-related genes may indicate inflammatory processes in liver disease.
+
 ![volcano_plot_GSE182060](https://github.com/user-attachments/assets/57c1b66a-2a7d-49b1-b25e-b0d8268bd7e6)
 
 2. **Heatmap (Visualization of Differentially Expressed Genes)**
 - **Red regions**: Genes upregulated in patients.
 - **Blue regions**: Genes downregulated.
+
 ![heatmap](https://github.com/user-attachments/assets/9a07f5ca-9429-4e69-ac4c-9cda14c5aae8)
 
 ## Key Genes Identified:
