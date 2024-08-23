@@ -5,10 +5,10 @@ A gene expression analysis pipeline using the GSE182060 dataset for early detect
 This repository contains a comprehensive gene expression analysis pipeline for the GSE182060 dataset, focusing on identifying key genes and pathways involved in the early detection and treatment of Non-alcoholic fatty liver (NAFL) and Non-alcoholic steatohepatitis (NASH). By conducting differential expression analysis, pathway enrichment, and generating visualizations (heatmaps and volcano plots), the project aims to uncover biomarkers and molecular pathways essential for diagnosing and treating these liver diseases at early stages.
 
 ## Key Features
-Differential Expression Analysis: Identifies genes significantly upregulated or downregulated between Baseline and Follow-up conditions.
-KEGG Pathway Enrichment: Highlights key pathways altered in NAFL and NASH progression.
-Gene Set Enrichment Analysis (GSEA): Provides insights into the biological processes and molecular functions enriched in differentially expressed genes.
-Visualizations: Volcano plot and heatmap display the results to facilitate biomarker discovery and interpretation of gene expression patterns.
+- **Differential Expression Analysis**: Identifies genes significantly upregulated or downregulated between Baseline and Follow-up conditions.
+- **KEGG Pathway Enrichment**: Highlights key pathways altered in NAFL and NASH progression.
+- **Gene Set Enrichment Analysis (GSEA)**: Provides insights into the biological processes and molecular functions enriched in differentially expressed genes.
+- **Visualizations**: Volcano plot and heatmap display the results to facilitate biomarker discovery and interpretation of gene expression patterns.
 
 ## Tools and Dependencies
 To reproduce the analysis, you will need the following R packages:
