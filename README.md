@@ -116,6 +116,8 @@ Both models were evaluated using ROC curve analysis to assess the performance of
 - Targeting inflammatory pathways may prevent disease progression, offering new treatment strategies for patients with NASH.
 - The models identified key biomarkers and pathways that can aid in early detection and treatment of liver disease, potentially reducing the need for invasive procedures.
 
+-The analysis provides a robust framework for early detection of liver disorders using gene expression profiling and machine learning. By focusing on the identified biomarkers, particularly those involved in inflammation, the development of blood-based diagnostic tests could allow for the non-invasive and early identification of patients at risk for liver diseases such as NAFL and NASH.
+
 ## Repository Contents
 **R Scripts**: Scripts for differential expression analysis, pathway enrichment, and visualization (heatmaps, volcano plots).
 Result Files:
