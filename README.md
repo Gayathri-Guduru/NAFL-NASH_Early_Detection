@@ -66,10 +66,16 @@ The Random Forest model was trained on the expression data to classify Baseline 
 - 1.**Model Accuracy**: **82.61%** with balanced accuracy between Baseline and Follow-up.
 - 2.**Important Features**: Genes such as **CCL4, EDG4, CXCL9, and CXCL10** were identified as the most important features for classification. 
 
+![image](https://github.com/user-attachments/assets/9b42533d-c37d-4723-a763-f14d591205d2)
+
+
 - **XGBoost Model**
 The XGBoost model was also trained for classification, employing cross-validation to optimize hyperparameters and prevent overfitting.
 - 1. **Model Accuracy**: **82.61%** with similar performance to Random Forest.
 Feature Importance: The feature importance plot highlights significant genes such as CCL2, CXCL9, and CXCL10.
+
+![image](https://github.com/user-attachments/assets/d97f6696-feeb-4530-884d-501725e60843)
+
 
 ## ROC Curve Analysis
 Both models were evaluated using ROC curve analysis to assess the performance of the classification models, with ROC curves indicating high model performance.
