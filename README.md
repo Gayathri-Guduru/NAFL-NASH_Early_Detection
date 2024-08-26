@@ -72,7 +72,7 @@ The Random Forest model was trained on the expression data to classify Baseline 
 - **XGBoost Model**
 The XGBoost model was also trained for classification, employing cross-validation to optimize hyperparameters and prevent overfitting.
 - 1. **Model Accuracy**: **82.61%** with similar performance to Random Forest.
-Feature Importance: The feature importance plot highlights significant genes such as CCL2, CXCL9, and CXCL10.
+- 2. **Feature Importance**: The feature importance plot highlights significant genes such as CCL2, CXCL9, and CXCL10.
 
 ![image](https://github.com/user-attachments/assets/d97f6696-feeb-4530-884d-501725e60843)
 
